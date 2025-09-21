@@ -1,4 +1,5 @@
 # Conservation Society Database
+This is part of the Assignment for COMP1350 unit: Introduction	to	Database	Design and	Management
 ### Project background: 
 The South African Conservation Society has moved to relational databases. You have been tasked with constructing and implementing the database, and writing queries for common searches. The database contains the following tables:
 - Reserve: Including location and size.
